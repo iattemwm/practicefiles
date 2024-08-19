@@ -115,7 +115,7 @@ body {
 .staffpic {
     border-radius: 50%;
     width: 120px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .staffqualif {
@@ -128,7 +128,7 @@ body {
     border-radius: 6px;
     padding: 10px;
 
-  margin-left: 30px;
+    margin-left: 30px;
 
 
 }
@@ -137,4 +137,10 @@ body {
 
     text-align: center;
     color: #ede7d9;
+}
+
+.photos {
+    width: 190px;
+    border-radius: 8px;
+    margin: 2px;
 }
